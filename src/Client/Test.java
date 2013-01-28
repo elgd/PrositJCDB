@@ -15,6 +15,7 @@ public class Test {
 		prst.listidPage();
 		prst.listidVisiteur();
 		prst.listtaille();
+		System.out.println("Salut abrutis!");
 		
 		// TODO Auto-generated method stub
 

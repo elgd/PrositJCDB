@@ -16,7 +16,7 @@ public class Test {
 		prst.listidVisiteur();
 		prst.listtaille();
 		System.out.println("Salut abrutis!");
-		
+		System.out.println("tralalala");
 		// TODO Auto-generated method stub
 
 	}
